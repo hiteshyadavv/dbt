@@ -1,1 +1,3 @@
 select * from raw.jaffle_shop.customers;
+
+--In the command line bar at the bottom, enter dbt run and click Enter
